@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1432304415 source:d:\codeblocks\workspace\projekt c\stabla asp\main.c
+	<stdio.h>
+	<stdlib.h>
+
